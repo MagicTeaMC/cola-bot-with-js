@@ -1,0 +1,18 @@
+{
+    "name": "cola-bot-with-js",
+    "version": "1.0.0",
+    "description": "可樂瓶機器人的discord.js版實現",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Discord bot"
+    ],
+    "author": "Maoyue",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "12.5.3",
+        "node-os-utils": "^1.3.5"
+    }
+}
